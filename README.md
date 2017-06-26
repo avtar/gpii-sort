@@ -2,7 +2,7 @@
 
 A library that contains static functions to sort array content using lucene-like syntax.  To ensure [stable sorting](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability),
 we use [the `fluid.stableSort` function provided by Infusion](http://docs.fluidproject.org/infusion/development/CoreAPI.html#fluid-stablesort-array-func-).
-aaaa
+
 # `gpii.sort(array, sortCriteria)`
 
 * `array`: The array to be sorted.
