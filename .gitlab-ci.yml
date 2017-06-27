@@ -1,6 +1,6 @@
 # The standard configuration file to run our Vagrant tests in QI
 #
-# See: https://github.com/avtar/qi-development-environments
+# See https://github.com/avtar/qi-development-environments
 ---
 # Cache directories such as 'node_modules' in between stages.
 cache:
