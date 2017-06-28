@@ -1,4 +1,5 @@
-# QI Configuration file, see: https://github.com/amatas/vagrant-gpii-ci
+# QI Configuration file, see: 
+# https://github.com/amatas/vagrant-gpii-ci
 ---
 
 env:
